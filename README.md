@@ -91,7 +91,7 @@ By bringing together innovative identity solutions, decentralized governance, an
 
 ## Team
 
-Jeremy, Juan, Amaan. More than 5 years of experience in the Web3 Space. Worked with multiple Web3 protocols and ecosystems, thriving to make solutions that can make this world a better place.
+Jeremy, Juan, Neeraj, Amaan. More than 5 years of experience in the Web3 Space. Worked with multiple Web3 protocols and ecosystems, thriving to make solutions that can make this world a better place.
 
 ---
 
