@@ -25,6 +25,8 @@ FanBet integrates **World ID** to create a secure, trust-based environment where
 
 This integration meets **World ID’s Human Validation** bounty requirements by ensuring only verified users engage with FanBet’s interactive features and quizzes, fostering a secure and inclusive environment.
 
+![photo_6154208546691073668_y.jpg](https://cdn.dorahacks.io/static/files/1930a7c060688e3cd58ece0493ba2dc5.jpg)
+
 ---
 
 ### 🧑‍🤝‍🧑 MetaMask Delegation Toolkit for Social Coordination and Governance
@@ -59,6 +61,10 @@ Built on **Arbitrum’s scalable infrastructure** and utilizing Stylus and Rust,
 - **NFT Marketplace for Digital Memorabilia**: FanBet’s NFT marketplace leverages Arbitrum’s efficiency, enabling fans to trade collectible NFTs seamlessly. This marketplace also serves as a platform for cultural expression, allowing fans to celebrate their favorite teams and athletes.
 
 These features align with **Arbitrum’s Innovation Stack Track**, targeting bounties for privacy-focused solutions, AI integration, and NFT-based digital marketplaces, all optimized through Arbitrum’s advanced blockchain technology.
+
+- const tokenAddress = '0x82CA1b39805C0050CbCdF3F9b73Fc35E60D01543';
+- const userAddress = '0xcfa038455b54714821f291814071161c9870B891';
+- const contract_Address = '0xce6c79EA7C4cE0DC5d6863ACb0cBEABc27C351b6';
 
 ---
 
